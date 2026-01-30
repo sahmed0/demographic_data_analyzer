@@ -1,6 +1,6 @@
-# Demographic Data Analyzer
+# Demographic Data Analyser
 
-This project is the solution to the "Demographic Data Analyzer" challenge, the second project in the **freeCodeCamp Data Analysis with Python** certification.
+This project is the solution to the "Demographic Data Analyser" challenge, the second project in the **freeCodeCamp Data Analysis with Python** certification.
 
 ## Project Description
 
@@ -43,27 +43,10 @@ The script performs data analysis to answer the following questions:
 -   **Python 3**
 -   **Pandas**
 
-## Installation
+## 📄 License
+Copyright © 2026 Sajid Ahmed. All Rights Reserved.
 
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/your-username/demographic-data-analyzer.git](https://github.com/your-username/demographic-data-analyzer.git)
-    ```
-2.  Navigate to the directory:
-    ```bash
-    cd demographic-data-analyzer
-    ```
-3.  Install the required dependency:
-    ```bash
-    pip install pandas
-    ```
-
-## Usage
-
-Ensure the `adult.data.csv` file is in the same directory as the script. You can import the function and run it as follows:
-
-```python
-import demographic_data_analyzer
-
-# Calculate and print the data
-demographic_data_analyzer.calculate_demographic_data()
+This repository is intended solely for portfolio review and recruitment purposes. By accessing this repository, you acknowledge the following terms:
+- View Only: Permission is granted to view the source code for the purpose of evaluating my professional skills and experience.
+- No Unauthorised Use: No permission is granted to copy, modify, distribute, or use this code for any personal, commercial, or educational project.
+- No AI Training: Use of this source code for the purpose of training machine learning models or generative AI is strictly prohibited.
